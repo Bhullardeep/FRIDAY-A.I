@@ -45,16 +45,13 @@ Contributions are welcome! If you'd like to contribute to F.R.I.D.A.Y. AI, pleas
 - Special thanks to [PI AI](https://pi.ai) for providing inspiration and resources for AI development.
 - Thanks to all contributors who help improve F.R.I.D.A.Y. AI.
 
-## Contact 😊
+Made With 💓 By - ( Deep Bhullar )
 
-- **Instagram:** [Anubhav-Chaturvedi-Insta](https://www.instagram.com/_anubhav__chaturvedi_/)
-- **Facebook:** [IndianYoutuberAndSoftwareDevloper](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
-- **Linktree:** [Allorizen](https://linktr.ee/allorizen)
-- **Portfolio:** [Anubhav Chaturvedi](https://anubhavchaturvedipro-portfolio.netlify.app)
-- **LinkedIn:** [Anubhav Chaturvedi](https://linkedin.com/in/anubhav-chaturvedi-)
-- **Twitter:** [Anubhav Chaturvedi](https://twitter.com/AnubhavChatu)
-- **GitHub:** [AnubhavChaturvedi-GitHub](https://github.com/AnubhavChaturvedi-GitHub)
-- **YouTube (NetHyToons):** [NetHyToons](https://www.youtube.com/@nethytoons)
-- **YouTube (Anubhav-Chaturvedi-YT):** [Anubhav-Chaturvedi-YT](https://www.youtube.com/@Anubhav_Chaturvedi)
-- **Geeks for Geeks:** [Chaturvedianubhav520](https://auth.geeksforgeeks.org/user/chaturvedianubhav520)
-- **LeetCode:** [Ac520](https://leetcode.com/Ac520)
+
+Contact 😊
+Instagram: Deep_bhullarz.01
+Facebook: Deep Arsh
+Linktree: @deep_Bhullars
+Twitter: @DeepBhulla23378
+GitHub: Bhullardeep
+YouTube: soldier gaming
